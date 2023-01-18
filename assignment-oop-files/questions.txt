@@ -1,0 +1,8 @@
+1.Because ArrayList and LinkedList are two distinct classes, 
+it would not function. Because both of these classes implement 
+the interface list, you require it.
+
+-It's not a List method; ArrayLists are used instead.
+-If it doesn't, it is much more flexible and we can more easily plan each list type in each class in the appropriate locations.
+
+2.No, the classes are entirely different. The fact that they both extend from the same class is the only 
